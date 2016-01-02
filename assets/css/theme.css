@@ -1,0 +1,29 @@
+.footerTheme{
+    background-color: #eaeaea;
+    color:white;
+}
+
+.purpleText{
+    color: #b1459f !important;
+
+}
+
+.articleText{
+    padding-top: 14px;
+    font-size:14px;
+    text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
+
+}
+
+
+.rightSideBarRssColor{
+    margin-top:10px;
+    color: white;
+}
+
+
+.rightSideBarHeading{
+    color:white;
+    display:block;
+    text-shadow: 2px 2px 2px rgba(150, 150, 150, 1);
+}

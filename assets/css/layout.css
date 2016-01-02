@@ -1,0 +1,36 @@
+.l-customnav{
+    background-color: #eeeeee !important;
+    border: none !important;
+}
+
+
+.l-content{
+    padding-left:15px;
+}
+
+.l-articleBox{
+    background-color: #d7d7d6 !important;
+    box-shadow: 2px 2px 15px #c8c6c6 inset;
+    color: white;
+    padding-bottom: 20px;
+    height: 45px;
+    margin-top: 20px;
+    border-radius: 10px;
+    display:block;
+}
+
+
+.l-rightSideBar{
+    margin-top: -22px;
+    padding-top:20px;
+    border-top-right-radius:1em;
+    border-bottom-right-radius: 1em;
+    background-color: #d7d7d6 !important;
+    height: 850px;
+
+}
+
+.l-footercss{
+    width: 100%;
+}
+
